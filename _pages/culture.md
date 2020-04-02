@@ -36,7 +36,7 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 		<div class="grid-x">
 			<div class="small-12 medium-10 large-6 large-offset-3 cell b-ws-top b-ws-bottom-p">
 				<!-- <h3>How we see ourselves</h3> -->
-				<p>We are a distributed team of 10 individuals, growing 2x every quarter. And are working to create the workplace, technologies and operating principles of tomorrow.</p>
+				<p>We are a distributed team of 10 (current count) individuals, growing 2x every quarter. And are working to create the workplace, technologies and operating principles of tomorrow.</p>
 				<p class="bold bkc nm">If we are not living in, inspired by and building for the future; that's an incredibly boring way to go through life.</p>
 				<p>We believe in a future with individual freedom (permissionless), lower mistrust (trustless) and meritocracy (decentralised). We are here building it.</p>
 				<blockquote>I could either watch it happen or be a part of it.
